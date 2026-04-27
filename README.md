@@ -2,7 +2,7 @@
 
 **`Back-End Developer`**
 
-Sou estudante Análise e Desenvolvimento de Sistemas e, atualmente, estou focando em desenvolver minhas habilidades em back-end.
+Sou estudante de Análise e Desenvolvimento de Sistemas e, atualmente, estou focado em desenvolver minhas habilidades em back-end.
 
 Acredito que dedicação e propósito transformam resultados. Por isso, foco meus estudos em desenvolvimento de sistemas escaláveis e soluções que impactem positivamente o futuro da tecnologia.
 
